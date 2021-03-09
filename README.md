@@ -7,6 +7,7 @@ Espaces de confirmation de suppression
 
 ## Disclaimer
 L'admin ne peut pas modifier qu'un seul champ d'un utilisateur, il faudra tous les remplir (sorry)
+Il ne peut pas non plus supprimer un utilisateur tant que ses photos sont pas supprimées (a cause de la clé étrangère)
 
 ## Fichiers manquants et bugs
 J'ai pas fait d'export de la BDD (call me parano) , il se peut qu'il reste des petits bugs léger notamment au niveau du CSS
